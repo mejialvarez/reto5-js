@@ -1,0 +1,14 @@
+[
+  {"definition":"Crear un segundo nombre para una variable método", "answer":"alias"},
+  {"definition":"Usado para definir una función", "answer":"def"},
+  {"definition":"Lenguaje de marcado para la elaboración de páginas web", "answer":"html"},
+  {"definition":"Lenguaje que define el estilo de una página web", "answer":"css"},
+  {"definition":"Etiqueta semántica para definir una sección de una página web", "answer":"section"},
+  {"definition":"Lenguaje de programación en el front-end", "answer":"javascript"},
+  {"definition":"Framework más popular de Ruby", "answer":"ruby on rails"},
+  {"definition":"Framework creado por Twitter para el Front-end", "answer":"bootstrap"},
+  {"definition":"Precompilador JavaScript por defecto de Ruby on Rails", "answer":"coffeescript"},
+  {"definition":"Precompilador CSS por defecto de Ruby on Rails", "answer":"sass"},
+  {"definition":"Recurso externo para ampliar la funcionalidad de una app en Ruby", "answer":"gem"},
+  {"definition":"Archivo para especificar los gems de una app en Ruby on Rails", "answer":"gemfile"}
+]
